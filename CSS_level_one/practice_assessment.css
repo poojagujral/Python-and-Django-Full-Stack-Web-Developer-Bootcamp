@@ -1,0 +1,45 @@
+body{
+/* task 1 */
+  background: #a8e6ff;
+}
+h1{
+  /* task 2 */
+  border: 1px solid black;
+}
+h2{
+  /* task 3 */
+  color: purple;
+}
+input{
+  /* task 4 */
+  border: 2px solid rgb(144,0,0);
+}
+div p{
+  /* task 5 */
+  background-color: 	#FFFF99;
+}
+#textblock{
+  /* task 6 */
+  border: 5px solid gray
+  width: 800px
+  height: 400px;
+}
+
+ol li a{
+  /* task 7 */
+  color: red;
+}
+#itemone{
+  /* task 8 */
+  color: purple;
+  text-decoration: overline;
+}
+.exit{
+  /* task 9 */
+  border: 4px dashed yellow;
+  background: blue;
+}
+a:visited{
+  /* bonus task */
+  color: blue;
+}
