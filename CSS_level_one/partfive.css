@@ -1,0 +1,10 @@
+li{
+  color: red;
+}
+.topitems{ /*topitems has higher hierarchy than li tag */
+
+  color: blue;
+}
+#two{ /*id supercede the class tag */
+  border:  3px solid black;
+}
